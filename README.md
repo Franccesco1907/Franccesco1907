@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **NestJS, NodeJS, TypeScript, JavaScript, Angular, React**
 
+- 📫 How to reach me franccescojaimesagreda@gmail.com
+
 - 📄 Know about my experiences [https://docs.google.com/document/d/18VverjcfMdWtA4JZfOLK9NwcM26w524CczQvmfCA6-w/edit](https://docs.google.com/document/d/18VverjcfMdWtA4JZfOLK9NwcM26w524CczQvmfCA6-w/edit)
 
 - ⚡ Fun fact **I like to make friends**
