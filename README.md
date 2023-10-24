@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franccesco1907" alt="franccesco1907" /></a> </p>
 
-- 🔭 I’m currently working on **Microservices NestJS**
+- 🔭 I’m currently working on **Backend: NestJS Microservices / Frontend: Angular**
 
-- 🌱 I’m currently learning **AWS Lambda**
+- 🌱 I’m currently learning **Cloud in AWS**
 
 - 👯 I’m looking to collaborate on **Arquitecture projects**
 
