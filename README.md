@@ -15,7 +15,7 @@
 
 - 📫 How to reach me franccescojaimesagreda@gmail.com
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iGCltRSVAch7HdbNVovQM-bcNPzsyL-l/edit?usp=sharing&ouid=106783949276469157161&rtpof=true&sd=true](https://docs.google.com/document/d/1iGCltRSVAch7HdbNVovQM-bcNPzsyL-l/edit?usp=sharing&ouid=106783949276469157161&rtpof=true&sd=true)
+- 📄 Know about my experiences [clicking here](https://docs.google.com/document/d/1iGCltRSVAch7HdbNVovQM-bcNPzsyL-l/edit?usp=sharing&ouid=106783949276469157161&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I like to make friends**
 
