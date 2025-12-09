@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franccesco1907" alt="franccesco1907" /></a> </p>
 
-- 🔭 I’m currently working on **Backend: NestJS Microservices / Frontend: Angular**
+- 🔭 I’m currently working on **Backend: NestJS Microservices and NodeJs Lambdas / Frontend: NextJs and Angular**
 
 - 🌱 I’m currently learning **Cloud in AWS**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [clicking here](https://docs.google.com/document/d/1RPg3-tsk58kZWPwL6CdZ6vtvoQvP9kQFfpbI1OlJA4M/edit?usp=drive_link)
 
-- ⚡ Fun fact **I like to make friends**
+- ⚡ Fun fact **I like to do side projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
