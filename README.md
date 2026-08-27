@@ -1,34 +1,76 @@
 <h1 align="center">Hi 👋, I'm Franccesco Jaimes Agreda</h1>
-<h3 align="center">A passionate Full Stack Developer from Peru</h3>
+<h3 align="center">Full-Stack Software Engineer · Professor · AI-enabled product builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franccesco1907&label=Profile%20views&color=0e75b6&style=flat" alt="franccesco1907" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franccesco1907" alt="franccesco1907" /></a> </p>
-
-- 🔭 I’m currently working on **Backend: NestJS Microservices and NodeJs Lambdas / Frontend: NextJs and Angular**
-
-- 🌱 I’m currently learning **Cloud in AWS**
-
-- 👯 I’m looking to collaborate on **Arquitecture projects**
-
-- 💬 Ask me about **NestJS, NodeJS, TypeScript, JavaScript, Angular, React**
-
-- 📫 How to reach me franccescojaimesagreda@gmail.com
-
-- 📄 Know about my experiences [clicking here](https://docs.google.com/document/d/1RPg3-tsk58kZWPwL6CdZ6vtvoQvP9kQFfpbI1OlJA4M/edit?usp=drive_link)
-
-- ⚡ Fun fact **I like to do side projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/franccesco-michael-jaimes-agreda-7a00511a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franccesco-michael-jaimes-agreda-7a00511a8/" height="30" width="40" /></a>
+<p align="center">
+  I build platforms from product idea to production runtime —<br/>
+  enterprise e-commerce, payments, and distributed systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franccesco1907&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="franccesco1907" /></p>
+### 🔭 What I do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franccesco1907&show_icons=true&locale=en&theme=tokyonight" alt="franccesco1907" /></p>
+- 🏢 **Full Stack Developer @ Globant** — building and maintaining the e-commerce platforms for **Walt Disney World** and **Disneyland Resort**, plus client platforms for **American Century Investments**.
+- 💳 **Payments engineering** — PayPal SDK with multi-currency internationalization, Visa Direct, Izipay, Google Pay / Apple Pay, interest-free installments, and fraud-aware transaction flows.
+- 🧩 **Distributed systems** — microservices and event-driven architecture with Kafka, RabbitMQ, and Redis on AWS (EKS, ECS, Lambda, SQS, Step Functions, Bedrock).
+- 👥 **Leadership** — Team Lead at Periferia (UTP, Terpel) and Team Lead + COE Lead at MDP Consulting: engineering best practices, mentorship, and client-facing delivery.
+- 🎓 **Professor @ PUCP** (2021–2024) — Programming Fundamentals, Computer Architecture, Algorithms, and Applications of Computer Science.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franccesco1907&&theme=tokyonight" alt="franccesco1907" /></p>
+### 🚀 What I'm building now
+
+- **Tcaps** — digital capsules: upload photos and text, AI generates an emotional page, pay to publish, share a public URL with QR. Built with Next.js, Supabase, and Prisma. *(repo private — product launching soon)*
+- **[telematics-event-architecture](https://github.com/Franccesco1907/telematics-event-architecture)** — event-driven fleet-monitoring platform: NestJS microservices, Kafka, Redis, and TimescaleDB. Panic fast-track under 2s, 500 signals/sec sustained ingest.
+- **[NestJS-Kafka-Antifraud-App](https://github.com/Franccesco1907/NestJS-Kafka-Antifraud-App)** — antifraud transaction microservice with event-driven validation over Kafka.
+- **[veinshot](https://github.com/Franccesco1907/veinshot)** — bilingual (EN/ES) Next.js product landing, early stage.
+- **[NestJS-Template](https://github.com/Franccesco1907/NestJS-Template)** — the production-ready NestJS boilerplate I use to bootstrap backends.
+- **[leetcode-solutions](https://github.com/Franccesco1907/leetcode-solutions)** — daily algorithms practice in TypeScript.
+
+### 🤖 AI toolkit
+
+I build AI-enabled software and work daily with AI coding agents as part of my engineering workflow:
+
+`Claude Code` · `OpenCode` · `Codex CLI` · `Cursor`
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>
+</p>
+
+- **Languages:** TypeScript · JavaScript · Python · Java
+- **Backend:** Node.js · NestJS · Express · FastAPI · Spring Boot
+- **Frontend:** React · Next.js · Angular · Svelte · Vue
+- **Data & Messaging:** PostgreSQL · MongoDB · MySQL · Redis · Kafka · RabbitMQ
+- **Cloud & Ops:** AWS (EC2, S3, Lambda, EKS, SQS, Bedrock) · GCP · Docker · CI/CD · SonarQube · Splunk
+
+### 📜 Education & certifications
+
+- Software Engineer — Pontifical Catholic University of Peru (PUCP)
+- AWS Solutions Architect — BSG Institute
+- Design & Development of AI Solutions · DevSecOps · Digital Architecture & Cloud — UTEC
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franccesco-michael-jaimes-agreda-7a00511a8/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:franccescojaimesagreda@gmail.com)
+[![CV](https://img.shields.io/badge/CV-gray?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1RPg3-tsk58kZWPwL6CdZ6vtvoQvP9kQFfpbI1OlJA4M/edit?usp=drive_link)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franccesco1907&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franccesco1907&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franccesco1907&theme=tokyonight" alt="GitHub streak" />
+</p>
