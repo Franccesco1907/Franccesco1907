@@ -68,8 +68,8 @@ I build AI-enabled software and work daily with AI coding agents as part of my e
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franccesco1907&layout=compact&theme=tokyonight" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=franccesco1907&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://franccesco-readme-stats.vercel.app/api/top-langs/?username=franccesco1907&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://franccesco-readme-stats.vercel.app/api?username=franccesco1907&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franccesco1907&theme=tokyonight" alt="GitHub streak" />
